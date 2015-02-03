@@ -12,4 +12,6 @@
   - _look ok?_
   - ***use markdown?***
 
-- this text has been recently added
+- online: this text has been recently added
+
+- on desktop: new text received

@@ -16,3 +16,4 @@
 
 - on desktop: new text received
 - updated 02/04/2015
+    - yes, yes it does show up online. 

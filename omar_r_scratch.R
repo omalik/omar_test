@@ -12,6 +12,11 @@ library(dplyr)
 install.packages("YaleToolkit")
 library(YaleToolkit)
 
+getwd()
+
+?plot
+
+
 
 
 
